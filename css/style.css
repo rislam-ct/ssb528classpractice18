@@ -17,7 +17,7 @@ body {
 	font-weight: 400;
 	color: #000000;
 }
-/*Common Start*/
+/*Common End*/
 /*Heder Start*/
 header {background-color: #F0FFF0;}
 .cnav {}
@@ -31,6 +31,6 @@ header {background-color: #F0FFF0;}
 	margin: 0 17px;
 }
 .menu ul li a:hover {}
-/*Heder Start*/
+/*Heder End*/
 
 
