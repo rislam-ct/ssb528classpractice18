@@ -19,7 +19,7 @@ body {
 }
 /*Common Start*/
 /*Heder Start*/
-header {}
+header {background-color: #F0FFF0;}
 .cnav {background-color: #F0FFF0;}
 .logo {
 	font-family: 'Rubik-Bold', sans-serif;
